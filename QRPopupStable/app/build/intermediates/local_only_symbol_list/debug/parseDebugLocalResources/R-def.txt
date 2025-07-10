@@ -1,7 +1,9 @@
 R_DEF: Internal format may change without notice
 local
+drawable _a32b700405a15cc5d7beb788455594b
 drawable ic_launcher_background
 id btnShowQR
+id imageView2
 id qrImageView
 layout activity_main
 layout dialog_qr

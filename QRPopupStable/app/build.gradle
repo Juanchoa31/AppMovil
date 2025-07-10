@@ -38,6 +38,6 @@ dependencies {
         exclude group: 'org.jetbrains.kotlin', module: 'kotlin-stdlib-jdk8'
     }
 
-    // Forzamos solo una versión de Kotlin
+    // Forzamos solo UNA versión estable de Kotlin
     implementation "org.jetbrains.kotlin:kotlin-stdlib:1.8.22"
 }
