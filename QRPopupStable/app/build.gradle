@@ -25,6 +25,12 @@ android {
         sourceCompatibility JavaVersion.VERSION_11
         targetCompatibility JavaVersion.VERSION_11
     }
+
+    // Esto ayuda con compatibilidad de imágenes grandes
+    aaptOptions {
+        cruncherEnabled = false
+        useNewCruncher = false
+    }
 }
 
 dependencies {
@@ -38,6 +44,6 @@ dependencies {
         exclude group: 'org.jetbrains.kotlin', module: 'kotlin-stdlib-jdk8'
     }
 
-    // Forzamos solo UNA versión estable de Kotlin
+    // Solo una versión de Kotlin en todo el proyecto
     implementation "org.jetbrains.kotlin:kotlin-stdlib:1.8.22"
 }
