@@ -4,7 +4,7 @@
             "outputFile": "com.example.qrpopup.app-mergeDebugResources-21:/values-hy/values-hy.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Juan\\.gradle\\caches\\8.13\\transforms\\eb34fbc9d7ba1afaf4336c49fad3f37f\\transformed\\appcompat-1.7.1\\res\\values-hy\\values-hy.xml",
+                    "source": "C:\\Users\\Juan\\.gradle\\caches\\8.13\\transforms\\415146d48a05623fbf157738b5c50ee6\\transformed\\appcompat-1.7.1\\res\\values-hy\\values-hy.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Juan\\.gradle\\caches\\8.13\\transforms\\acd27d1fd92c1d46d3fe377c53a65234\\transformed\\core-1.13.0\\res\\values-hy\\values-hy.xml",
+                    "source": "C:\\Users\\Juan\\.gradle\\caches\\8.13\\transforms\\7593513702a892f2ea78dc913b69d5cb\\transformed\\core-1.13.0\\res\\values-hy\\values-hy.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

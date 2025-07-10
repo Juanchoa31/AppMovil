@@ -4,7 +4,7 @@
             "outputFile": "com.example.qrpopup.app-mergeDebugResources-21:/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Juan\\.gradle\\caches\\8.13\\transforms\\eb34fbc9d7ba1afaf4336c49fad3f37f\\transformed\\appcompat-1.7.1\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\Juan\\.gradle\\caches\\8.13\\transforms\\415146d48a05623fbf157738b5c50ee6\\transformed\\appcompat-1.7.1\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
