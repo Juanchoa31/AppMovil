@@ -25,12 +25,6 @@ android {
         sourceCompatibility JavaVersion.VERSION_11
         targetCompatibility JavaVersion.VERSION_11
     }
-
-    // Esto ayuda con compatibilidad de imágenes grandes
-    aaptOptions {
-        cruncherEnabled = false
-        useNewCruncher = false
-    }
 }
 
 dependencies {
@@ -44,6 +38,7 @@ dependencies {
         exclude group: 'org.jetbrains.kotlin', module: 'kotlin-stdlib-jdk8'
     }
 
-    // Solo una versión de Kotlin en todo el proyecto
+    implementation 'com.journeyapps:zxing-android-embedded:4.3.0'
     implementation "org.jetbrains.kotlin:kotlin-stdlib:1.8.22"
+    implementation 'com.google.android.material:material:1.12.0'
 }

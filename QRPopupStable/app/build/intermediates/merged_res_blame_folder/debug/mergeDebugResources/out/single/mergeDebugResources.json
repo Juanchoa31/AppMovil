@@ -1,106 +1,118 @@
 [
     {
-        "merged": "com.example.qrpopup.app-debug-23:/mipmap-xxxhdpi_qranimado.webp.flat",
-        "source": "com.example.qrpopup.app-main-25:/mipmap-xxxhdpi/qranimado.webp"
+        "merged": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-debug-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.qrpopup.app-debug-23:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.qrpopup.app-main-25:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-debug-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.qrpopup.app-debug-23:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.qrpopup.app-main-25:/mipmap-xhdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-debug-32:\\mipmap-xhdpi_qranimado.webp.flat",
+        "source": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-main-34:\\mipmap-xhdpi\\qranimado.webp"
     },
     {
-        "merged": "com.example.qrpopup.app-debug-23:/mipmap-mdpi_qranimado.webp.flat",
-        "source": "com.example.qrpopup.app-main-25:/mipmap-mdpi/qranimado.webp"
+        "merged": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-debug-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.qrpopup.app-debug-23:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.qrpopup.app-main-25:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-debug-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.qrpopup.app-debug-23:/mipmap-xhdpi_qranimado.webp.flat",
-        "source": "com.example.qrpopup.app-main-25:/mipmap-xhdpi/qranimado.webp"
+        "merged": "com.example.qrpopup.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.example.qrpopup.app-main-34:/layout/activity_main.xml"
     },
     {
-        "merged": "com.example.qrpopup.app-debug-23:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.qrpopup.app-main-25:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-debug-32:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.qrpopup.app-debug-23:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.qrpopup.app-main-25:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-debug-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.qrpopup.app-debug-23:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.qrpopup.app-main-25:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-debug-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.qrpopup.app-debug-23:/mipmap-xxhdpi_qranimado.webp.flat",
-        "source": "com.example.qrpopup.app-main-25:/mipmap-xxhdpi/qranimado.webp"
+        "merged": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-debug-32:\\drawable_mivida.png.flat",
+        "source": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-main-34:\\drawable\\mivida.png"
     },
     {
-        "merged": "com.example.qrpopup.app-debug-23:/mipmap-hdpi_qranimado.webp.flat",
-        "source": "com.example.qrpopup.app-main-25:/mipmap-hdpi/qranimado.webp"
+        "merged": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-debug-32:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-main-34:\\mipmap-hdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.qrpopup.app-debug-23:/drawable__a32b700405a15cc5d7beb788455594b.jpg.flat",
-        "source": "com.example.qrpopup.app-main-25:/drawable/_a32b700405a15cc5d7beb788455594b.jpg"
+        "merged": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-debug-32:\\layout_dialog_qr.xml.flat",
+        "source": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-main-34:\\layout\\dialog_qr.xml"
     },
     {
-        "merged": "com.example.qrpopup.app-debug-23:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.qrpopup.app-main-25:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-debug-32:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-main-34:\\mipmap-mdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.qrpopup.app-debug-23:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.qrpopup.app-main-25:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-debug-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.qrpopup.app-debug-23:/layout_activity_main.xml.flat",
-        "source": "com.example.qrpopup.app-main-25:/layout/activity_main.xml"
+        "merged": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-debug-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.qrpopup.app-debug-23:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.qrpopup.app-main-25:/mipmap-hdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-debug-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.qrpopup.app-debug-23:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.qrpopup.app-main-25:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-debug-32:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-main-34:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.qrpopup.app-debug-23:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.qrpopup.app-main-25:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-debug-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-main-34:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.qrpopup.app-debug-23:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.qrpopup.app-main-25:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-debug-32:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-main-34:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.qrpopup.app-debug-23:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.qrpopup.app-main-25:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-debug-32:\\mipmap-mdpi_qranimado.webp.flat",
+        "source": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-main-34:\\mipmap-mdpi\\qranimado.webp"
     },
     {
-        "merged": "com.example.qrpopup.app-debug-23:/layout_dialog_qr.xml.flat",
-        "source": "com.example.qrpopup.app-main-25:/layout/dialog_qr.xml"
+        "merged": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-debug-32:\\mipmap-xxxhdpi_qranimado.webp.flat",
+        "source": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-main-34:\\mipmap-xxxhdpi\\qranimado.webp"
     },
     {
-        "merged": "com.example.qrpopup.app-debug-23:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.qrpopup.app-main-25:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-debug-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-main-34:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.qrpopup.app-debug-23:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.qrpopup.app-main-25:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-debug-32:\\mipmap-xxhdpi_qranimado.webp.flat",
+        "source": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-main-34:\\mipmap-xxhdpi\\qranimado.webp"
     },
     {
-        "merged": "com.example.qrpopup.app-debug-23:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.qrpopup.app-main-25:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-debug-32:\\mipmap-hdpi_qranimado.webp.flat",
+        "source": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-main-34:\\mipmap-hdpi\\qranimado.webp"
     },
     {
-        "merged": "com.example.qrpopup.app-debug-23:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.qrpopup.app-main-25:/mipmap-mdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-debug-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.qrpopup.app-debug-23:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.qrpopup.app-main-25:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+        "merged": "com.example.qrpopup.app-debug-32:/drawable_mivida.png.flat",
+        "source": "com.example.qrpopup.app-main-34:/drawable/mivida.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-debug-32:\\drawable__a32b700405a15cc5d7beb788455594b.jpg.flat",
+        "source": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-main-34:\\drawable\\_a32b700405a15cc5d7beb788455594b.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-debug-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-debug-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Juan\\.gradle\\daemon\\8.13\\com.example.qrpopup.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
     }
 ]

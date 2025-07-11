@@ -1,36 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:padding="24dp">
+    android:background="@drawable/mivida"
+    tools:context=".MainActivity">
 
-    <Button
-        android:id="@+id/btnShowQR"
-        android:layout_width="193dp"
-        android:layout_height="77dp"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentBottom="true"
-        android:layout_marginStart="121dp"
-        android:layout_marginEnd="120dp"
-        android:layout_marginBottom="301dp"
-        android:text="Show QR"
-        tools:ignore="HardcodedText" />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
 
-    <ImageView
-        android:id="@+id/imageView2"
-        android:layout_width="179dp"
-        android:layout_height="176dp"
-        android:layout_above="@+id/btnShowQR"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentEnd="true"
-        android:layout_marginStart="98dp"
-        android:layout_marginTop="44dp"
-        android:layout_marginEnd="110dp"
-        android:layout_marginBottom="86dp"
-        app:srcCompat="@drawable/_a32b700405a15cc5d7beb788455594b" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <Button
+                android:id="@+id/toggleQRButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mostrar QR" />
+
+            <ImageView
+                android:id="@+id/qrImageView"
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:layout_marginTop="16dp"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/goToYouTubeButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="Ir a YouTube"
+                android:visibility="gone" />
+        </LinearLayout>
+    </ScrollView>
 
 </RelativeLayout>

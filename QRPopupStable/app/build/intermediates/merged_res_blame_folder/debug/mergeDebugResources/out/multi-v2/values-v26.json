@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.qrpopup.app-mergeDebugResources-21:/values-v26/values-v26.xml",
+            "outputFile": "com.example.qrpopup.app-mergeDebugResources-30:/values-v26/values-v26.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Juan\\.gradle\\caches\\8.13\\transforms\\415146d48a05623fbf157738b5c50ee6\\transformed\\appcompat-1.7.1\\res\\values-v26\\values-v26.xml",

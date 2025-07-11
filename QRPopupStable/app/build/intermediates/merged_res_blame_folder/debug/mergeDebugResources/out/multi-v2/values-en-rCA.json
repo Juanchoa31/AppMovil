@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.qrpopup.app-mergeDebugResources-21:/values-en-rCA/values-en-rCA.xml",
+            "outputFile": "com.example.qrpopup.app-mergeDebugResources-30:/values-en-rCA/values-en-rCA.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Juan\\.gradle\\caches\\8.13\\transforms\\7593513702a892f2ea78dc913b69d5cb\\transformed\\core-1.13.0\\res\\values-en-rCA\\values-en-rCA.xml",
